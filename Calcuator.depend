@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477398686 source:f:\cpp source file 31116\projects\calcuator\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+
